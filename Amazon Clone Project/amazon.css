@@ -167,6 +167,7 @@ span {
     display: flex;
     justify-content: center;
     align-items: flex-end;
+    animation: 30s linear 10s infinite running mySlideChange;
 }
 
 .hero-message {
@@ -413,12 +414,15 @@ span {
 
 .box01 {
     border: 2.5px solid transparent;
-    box-shadow: 2.5px 5px 2.6px grey;
-    height: 826px;
-    width: 23%;
+    /* box-shadow: 2.5px 5px 2.6px grey; */
+    height: 506px;
+    width: 603px;
     background-color: white;
     padding: 5px 0px 5px;
     margin-top: 2px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 5px;
 }
 
 .box-image01 {
@@ -467,6 +471,7 @@ span {
     background-color: white;
     padding: 5px 0px 5px;
     margin-top: 2px;
+    border-radius:10px;
 }
 
 .box-image12 {
@@ -501,23 +506,73 @@ span {
 }
 .box-image31 {
     background-image: url(https://m.media-amazon.com/images/I/713cVhokg9L.jpg);
-    height: 250px;
-    width: 250px;
+    height: 240px;
+    width: 240px;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
 }
-
 .box-image32 {
-    /* background-image: url(https://m.media-amazon.com/images/I/615ysmt8jWL._AC_SY200_.jpg); */
-    height: 200px;
-    width: 147px;
+    background-image: url(https://m.media-amazon.com/images/I/71kq26jGDIL._AC_UL480_FMwebp_QL65_.jpg);
+    height: 240px;
+    width:  180px;
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
     display: flex;
-    justify-content: center;
-    
+    transform: translate(240px,-240px);
 }
+.box-image33 {
+    background-image: url(https://m.media-amazon.com/images/I/61PGgJsj+ML._AC_UL480_FMwebp_QL65_.jpg);
+    height: 240px;
+    width:  191px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    transform: translate(440px,-480px);
+}
+.box-image34 {
+    background-image: url(https://m.media-amazon.com/images/I/61cSw220-rL._AC_UL480_FMwebp_QL65_.jpg);
+    height: 265px;
+    width:  195px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    transform: translate(640px,-720px);
+}
+.box-image35 {
+    background-image: url(https://m.media-amazon.com/images/I/71pvq5MVjxL._AC_UL480_FMwebp_QL65_.jpg);
+    height: 280px;
+    width:  205px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    transform: translate(860px,-985px);
+}
+.box-image36 {
+    background-image: url(https://m.media-amazon.com/images/I/71mEbgkEa6L._AC_UL480_FMwebp_QL65_.jpg);
+    height: 280px;
+    width:  205px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    transform: translate(1075px,-1265px);
+}
+.box-image37{
+    background-image: url(https://m.media-amazon.com/images/I/61r2mNvFB8L._AC_UL480_FMwebp_QL65_.jpg);
+    height: 280px;
+    width:  205px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    transform: translate(1295px,-1545px);
+}
+
+
+
+
+
+
+
 
 .foot-panel1 {
     background-color: #37475A;
@@ -587,4 +642,12 @@ ul a {
 .copyright{
     font-size: 17px;
     text-align: center;
+}
+@keyframes mySlideChange {
+    25%{background-image: url(WhatsApp\ Image\ 2025-11-30\ at\ 11.03.00_25cce81c.jpg);}
+    50%{background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/img23/Consumables/X-GL/Feb5/PC_Hero_1_1500._CB582457311_.jpg);}
+    75%{background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/img21/MA2025/GW/BAU/Unrec/PC/934044815_1._CB551384116_.jpg);}
+    100%{background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/img23/Beauty/GW/yesbank/Shampoos__conditioners_pc._CB796616147_.png);}
+    /* 80%{background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/INSLGW/af_pc_1x._CB792409181_.jpg);} */
+    
 }

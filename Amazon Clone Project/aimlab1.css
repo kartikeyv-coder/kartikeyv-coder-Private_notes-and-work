@@ -1,0 +1,340 @@
+.container4 {
+    color: #76E1E1;
+    font-size: 48px;
+    margin-left: 190px;
+    margin-top: 180px;
+}
+
+.container5 {
+    border: solid #eaeaea;
+    width: 800px;
+    height: 683.36px;
+    margin-left: 190px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.bg-image {
+    background-image: url(Frame-5115.png);
+    background-size: cover;
+    width: 800px;
+    height: 683.36px;
+    border-radius: 17px;
+    opacity: 1;
+    background-color: #201d1c;
+
+
+}
+
+.bg-image-logo {
+    background-image: url(Group-5915.png);
+    width: 300px;
+    height: 30px;
+    transform: translate(20px, 30px);
+
+}
+
+.price {
+    font-size: 28px;
+    color: #FFFFFF;
+    margin-top: 460px;
+    margin-left: 30px;
+}
+
+.price1 {
+    color: #FFFFFF;
+    font-size: 54px;
+    margin-left: 30px;
+}
+
+.price2 {
+    color: #FFFFFF;
+    font-size: 28px;
+    margin-left: 30px;
+    margin-top: -10px;
+    padding-top: 5px;
+}
+
+.event {
+    margin-left: 600px;
+    transform: translate(0px, -90px);
+    width: 174.11px;
+    height: 61.8px;
+    border-radius: 10px;
+    color: #201d1c;
+    background-color: #FFFFFF;
+    font-size: 17px;
+    border: solid transparent;
+}
+
+.container6 {
+    border: solid black;
+    width: 333.35px;
+    height: 187.5px;
+    border-radius: 5.6px;
+    transform: translate(1050px, -660px);
+}
+
+.bg-image1 {
+    background-image: url(maxresdefault.jpg);
+    background-size: cover;
+    width: 333px;
+    height: 187px;
+    border-radius: 10px;
+}
+
+.bg-image-logo-1 {
+    margin-left: 140px;
+    transform: translate(0, 60px);
+    font-size: 54px;
+}
+
+.container7 {
+    border: solid transparent;
+    width: 333.35px;
+    height: 187.5px;
+    border-radius: 5.6px;
+    transform: translate(1050px, -640px);
+}
+
+.bg-image2 {
+    background-image: url(maxresdefault.png);
+    background-size: cover;
+    width: 333px;
+    height: 187px;
+    border-radius: 10px;
+}
+
+.bg-image-logo-2 {
+    margin-left: 140px;
+    transform: translate(0, 60px);
+    font-size: 54px;
+}
+
+.container8 {
+    border: solid transparent;
+    width: 333.35px;
+    height: 187.5px;
+    border-radius: 5.6px;
+    transform: translate(1050px, -620px);
+}
+
+.bg-image3 {
+    background-image: url(maxresdefault-1.jpg);
+    background-size: cover;
+    width: 333px;
+    height: 187px;
+    border-radius: 10px;
+}
+
+.bg-image-logo-3 {
+    margin-left: 140px;
+    transform: translate(0, 60px);
+    font-size: 54px;
+}
+
+.properties {
+    color: #76E1E1;
+    margin-top: -440px;
+    margin-left: 190px;
+    font-size: 80px;
+}
+
+.container9-1 {
+    border: solid transparent;
+    width: 1190px;
+    height: 850px;
+    margin-left: 190px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+.text2 {
+    color: #eaeaea;
+    transform: translate(0px, -350px);
+    margin-left: 50px;
+}
+
+.text3 {
+    color: #76E1E1;
+    transform: translate(50px, -330px);
+    font-size: 30px;
+}
+
+.text4 {
+    color: #eaeaea;
+    transform: translate(50px, -310px);
+    font-size: 18px;
+}
+
+.text4-1 {
+    margin-top: -5px;
+}
+
+.text4-2 {
+    margin-top: -8px;
+}
+
+.text4-3 {
+    margin-top: -11px;
+}
+
+.text10 {
+    color: #76E1E1;
+    font-size: 80px;
+    margin-left: 70px;
+    margin-top: 80px;
+}
+
+.container15 {
+    border: solid rgba(11, 9, 9, 0.909);
+    margin-top: 5px;
+    margin-left: 52px;
+    width: 1420px;
+    height: 500px;
+    background-color: #FFFFFF03;
+    border-radius: 10px;
+}
+
+.container15-1 {
+    border: solid rgba(6, 2, 2, 0.39);
+    width: 440px;
+    height: 440px;
+    margin-top: 23px;
+    margin-left: 25px;
+    background-color: rgba(128, 128, 128, 0.176);
+    border-radius: 10px;
+}
+
+.bg-img-15-1-1 {
+    border: solid grey;
+    width: 390px;
+    height: 220px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-image: url(Create-Your-Own-Training-Regimen-768x432-1.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.container15-2 {
+    border: solid rgba(6, 2, 2, 0.39);
+    width: 440px;
+    height: 440px;
+    margin-top: 23px;
+    margin-left: 25px;
+    background-color: rgba(128, 128, 128, 0.176);
+    border-radius: 10px;
+    transform: translate(470px, -447px);
+}
+
+.bg-img-15-2-1 {
+    border: solid grey;
+    width: 390px;
+    height: 220px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-image: url(The-Importance-Of-Warming-Up-768x432-1.webp);
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.container15-3 {
+    border: solid rgba(6, 2, 2, 0.39);
+    width: 430px;
+    height: 440px;
+    margin-top: 23px;
+    margin-left: 25px;
+    background-color: rgba(128, 128, 128, 0.176);
+    border-radius: 10px;
+    transform: translate(940px, -917px);
+}
+
+.bg-img-15-3-1 {
+    border: solid grey;
+    width: 370px;
+    height: 220px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-image: url(Aim-Training-Glossary-Hero-Art-v2-768x432-1.webp);
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.stream {
+    width: 329.6px;
+    height: 120px;
+    background-color: #202020;
+    transform: translate(120px, 40px);
+}
+
+.stream1 {
+    width: 329.6px;
+    height: 120px;
+    background-color: #202020;
+    transform: translate(140px, 40px);
+}
+
+.stream2 {
+    width: 329.6px;
+    height: 120px;
+    background-color: #202020;
+}
+
+.stream3 {
+    width: 329.6px;
+    height: 120px;
+    background-color: #202020;
+}
+
+.container16 {
+    background-color: black;
+}
+
+.logo-footer {
+    background-image: url(Aimlabs.svg);
+    background-size: cover;
+    width: 440px;
+    height: 60px;
+    margin-top: 240px;
+    margin-left: 90px;
+}
+
+.dis-logo-footer {
+    background-image: url(discord.svg);
+    background-size: cover;
+    width: 180px;
+    height: 40px;
+    transform: translate(995px, -40px);
+}
+
+.insta-logo-footer {
+    background-image: url(Instagram.svg);
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+    transform: translate(1195px, -90px);
+}
+
+.X-logo-footer{
+    background-image: url(Twitter.svg);
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+    transform: translate(1265px, -148px);
+    
+}
+.YT-logo-footer{
+     background-image: url(YouTube.svg);
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+    transform: translate(1335px, -208px);
+}
+.reddit-logo-footer{
+     background-image: url(Reddit.svg);
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+    transform: translate(1405px, -268px);
+}
